@@ -1,1 +1,2 @@
  docker run -p 8080:8080 -p 50051:50051 cr.weaviate.io/semitechnologies/weaviate:1.25.3
+https://www.youtube.com/watch?v=ySus5ZS0b94
